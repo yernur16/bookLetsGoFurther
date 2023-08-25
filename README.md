@@ -1,1 +1,1 @@
-# newStart and should not to stop
+Alex Edwards book: Let's Go Further
